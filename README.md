@@ -9,3 +9,18 @@ We got:
 - Word AMA is present in the design 
 - The design is flexible, by means of small changes you can add various topics, icons or illustrations, partners, etc. 
 - The simplicity of the character's image allows us to easily change his emotions, hand poses, eye gaze
+
+-
+
+![1](https://user-images.githubusercontent.com/58570032/142696950-edc84e32-2246-4a0d-bef8-81da2edb766a.png)
+
+
+-
+
+![2](https://user-images.githubusercontent.com/58570032/142696961-58d036f7-2e01-4482-bc03-616eb76cb3ac.png)
+
+
+-
+
+![Group 1](https://user-images.githubusercontent.com/58570032/142696968-653133ac-c2f5-44c3-8299-68ab7df655af.png)
+
